@@ -8,7 +8,7 @@
 
 # Overview
 
-Quiz game where you can guess 10 questions and deside if you win or lost I used ![api](https://opentdb.com/api_config.php) for this application.
+Quiz game where you can guess 10 questions and deside if you win or lost I used [api](https://opentdb.com/api_config.php) for this application.
 
 # Technologies
 
@@ -53,5 +53,5 @@ Start the server
 
 # Demo
 
-[Host Link on vercel](quiz-game-ten-pi.vercel.app)
+[Host Link on vercel](https://quiz-game-ten-pi.vercel.app/)
 
